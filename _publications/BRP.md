@@ -3,7 +3,7 @@ title: "Beartooth relay protocol: Supporting Real-Time application streams over 
 collection: publications
 permalink: /publication/BRP
 excerpt: 'In Proceedings.'
-date: 2020-04-
+date: 2020-04-19
 venue: 'Journal 1'
 paperurl: 'http://academicpages.github.io/files/paper3.pdf'
 citation: 'Batuhan Mekiker, Jefferson Jones, Mike P. Witte. (2020). &quot;Beartooth relay protocol: Supporting Real-Time application streams over LoRa.&quot; <i>INFOCOM 2020</i>.'
