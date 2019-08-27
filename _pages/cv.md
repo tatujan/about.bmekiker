@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-PDF version is available [here](https://drive.google.com/file/d/1fG9T7epxi63N6LskALazIPpDXsBvS3Tz/view?usp=sharing)
+PDF version is available [here](https://tatujan.github.io/files/cv_0819.pdf)
 
 Education
 ======
