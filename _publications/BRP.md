@@ -5,7 +5,7 @@ permalink: /publication/BRP
 excerpt: 'In Proceedings.'
 date: 2020-04-19
 venue: 'INFOCOM 2020'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
+paperurl: ''
 citation: 'Batuhan Mekiker, Jefferson Jones, Mike P. Witte. (2020). &quot;Beartooth relay protocol: Supporting Real-Time application streams over LoRa.&quot; <i>INFOCOM 2020</i>.'
 ---
 Supporting Real-Time Applications streams over LoRa using Beartooth Radio.
