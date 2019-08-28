@@ -60,7 +60,8 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
-
-Service and leadership
+Generally Interested In:
 ======
-* Currently signed in to 2 different slack teams
+  * Photography
+  * Outdoors
+  * Technology
