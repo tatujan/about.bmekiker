@@ -1,6 +1,6 @@
 ---
-title: "Research Interests"
-collection: research
+title:
+collection: Research
 permalink: /research/research
 ---
 Includes but not limited to wireless communication networks such as culler networks, sensor network and IoT, network protocols and blockchain.
