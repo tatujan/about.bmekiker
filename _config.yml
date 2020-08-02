@@ -84,8 +84,7 @@ author:
   avatar           : "profile_pic.jpg"
   bio              : "Graduate Research Asst. @ MSU, Product Development Intern @ Beartooth, Analog Format Enthusiast by heart."
   location         : "Bozeman, MT"
-  employer         : "Beartooth Radio Inc. &
-                      Montana State University"
+  employer         : "Beartooth Radio Inc. & > Montana State University"
   pubmed           :
   googlescholar    :
   email            : "batuhanmekiker@gmail.com"
@@ -104,7 +103,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : "bmekiker"
-  orcid            : "https://orcid.org/0000-0002-7895-8943"
+  orcid            : "/0000-0002-7895-8943"
   pinterest        :
   soundcloud       :
   stackoverflow    : "10553720/batuhan-mekiker"
