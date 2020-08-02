@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Batuhan Mekiker"
 title_separator          : "-"
 name                     : &name "Batuhan Mekiker"
-description              : &description "Graduate Research Assistant @ Montana State Unoversity & Product Development Intern @ Beartooth"
+description              : &description "Graduate Research Assistant @ Montana State University & Product Development Intern @ Beartooth"
 url                      : https://tatujan.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "tatujan/tatujan.github.io"
@@ -84,7 +84,7 @@ author:
   avatar           : "profile_pic.jpg"
   bio              : "Graduate Research Asst. @ MSU, Product Development Intern @ Beartooth, Analog Format Enthusiast by heart."
   location         : "Bozeman, MT"
-  employer         : "Beartooth Radio Inc."
+  employer         : "Beartooth Radio Inc. & Montana State University"
   pubmed           :
   googlescholar    :
   email            : "batuhanmekiker@gmail.com"
@@ -99,11 +99,11 @@ author:
   github           : "tatujan"
   google_plus      :
   keybase          :
-  instagram        :
+  instagram        : "bmekiker"
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : "bmekiker"
-  orcid            :
+  orcid            : "0000-0002-7895-8943"
   pinterest        :
   soundcloud       :
   stackoverflow    : "10553720/batuhan-mekiker"
